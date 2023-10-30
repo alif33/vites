@@ -7,7 +7,7 @@ const Footer = ()=>{
             <div>
                 <h1>LOGO</h1>
             </div>
-            <h5>© 2022 Axilthemes. All Rights Reserved.</h5>
+            <h5>© 2022 Ismail. All Rights Reserved.</h5>
             <div>
                 <ul className="flex gap-3">
                     <li><Link href="/auth/signup"><BsFacebook/></Link></li>
